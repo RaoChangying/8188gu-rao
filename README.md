@@ -1,3 +1,7 @@
+Modified Notes:
+I guess makefile not works, so modified it, but it can not passed compiled. I losed and missed C language a great time but I still can not recall.
+Following is orignal Readme file.
+
 IMPORTANT - PLEASE READ:
 
 Beginning on November 4, 2019, I will NO LONGER support people that have downloaded the source
